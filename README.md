@@ -8,7 +8,7 @@ Installation instructions are [here](https://addons.mozilla.org/en-US/developers
 Testing and running the add-on depends heavily on [cfx](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/cfx-tool.html),
 a command line tool included with the SDK.
 
-By default, the add-on runs against a local CouchDB server, you can change this in `config.js`
+By default, the add-on runs against a local CouchDB server, you can change this in `lib/config.js`
 
 
 Setup
