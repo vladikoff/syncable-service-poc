@@ -14,10 +14,10 @@ By default, the add-on runs against a local CouchDB server, you can change this 
 Setup
 -------
 
+* Update the username in `lib/config.js`, and change `const DB_USER = 'testuser';` to your username.
 * Download the latest release of `pouchdb-nightly.js` from https://github.com/vladikoff/pouchdb/releases
 and put in `lib/pouchdb/dist/`.
 * Make sure the CouchDB server is running, default remote is `http://localhost:5984/content_history`
-
 
 Running
 -------
