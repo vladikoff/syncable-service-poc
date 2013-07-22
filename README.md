@@ -3,6 +3,8 @@ syncable-service-poc
 
 Proof of concept of the Syncable Service API for Firefox client data
 
+### __[View Screencast Demo](http://screencast.com/t/u8JsUt8C758c)__
+
 Running and testing this Jetpack add-on requires the [Jetpack SDK](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/).
 Installation instructions are [here](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/tutorials/installation.html).
 Testing and running the add-on depends heavily on [cfx](https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/cfx-tool.html),
